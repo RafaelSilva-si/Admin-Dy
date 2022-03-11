@@ -1,8 +1,10 @@
 ![image](https://user-images.githubusercontent.com/77937182/157924752-e5fd69a2-507e-47fa-89d6-8e5f79c302fe.png)
 
-# Admin DY </br>
+# Admin DY 👨‍💻</br>
 > Status: Em desenvolvimento 
 
+</br>
+</br>
 
 <b>Painel administrativo</b>
 
@@ -14,18 +16,42 @@
 ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-https://admin-dy.herokuapp.com/
+</br>
+</br>
 
-user: teste123
-password: teste123
+> ⚠️ Servidor pode estar lento, recarregue a página e divirta-se.
 
-## Info
+🔗 https://admin-dy.herokuapp.com/
 
-A ideia é um portal administrativo e comercial, onde será possivel cadastramento de vendas, compras, produtos, clientes e etc...Tentando alcançar uma interface elegante e intuitivo. 
+👤 user: teste123 </br>
+🔑 password: teste123
 
-## Design
+</br>
+</br>
 
-<b>Desktop:</b>
+## Info ℹ️
+
+A ideia é um portal administrativo e comercial, onde será possível cadastramento de vendas, compras, produtos, clientes e etc...Tentando alcançar uma interface elegante e intuitivo.
+Comecei o projeto, desenhando o layout no Figma, utilizando conceitos básicos de UI UX, selecionando as melhores cores e tipografia. Projeto foi desenvolvido pensando na ideia de Mobile First, cada detalhe é totalmente responsivo e adaptável para todos devices.
+
+</br>
+</br>
+
+## Design 🖼️
+
+<b>Desktop🖥️:</b>
 ![image](https://user-images.githubusercontent.com/77937182/157927100-6f12099d-fd20-40e2-b98a-7baa12e70582.png)
 
-<b>Mobile:</b>
+<b>Mobile📱:</b> </br>
+![image](https://user-images.githubusercontent.com/77937182/157928043-35b20cc2-81fe-43b0-889f-ba2a9023e902.png)
+
+</br>
+</br>
+
+## Conclusão
+
+Está sendo um projeto muito interessante, onde estou aprendendo e aplicando os novos conceitos da Tecnologia de desenvolvimento Web.
+
+</br>
+</br>
+
