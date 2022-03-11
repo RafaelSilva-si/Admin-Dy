@@ -1,0 +1,9 @@
+.cr-tab{
+    .nav-item {
+        cursor: pointer;
+        .nav-link.active{
+            color:theme-color("primary");
+        }
+    }
+    
+}

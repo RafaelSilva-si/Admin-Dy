@@ -1,0 +1,57 @@
+.displayErrors input:invalid {
+	box-shadow: 0 0 0 0.2rem rgba(225, 46, 27, 0.25);
+	color: #495057;
+	background-color: #fff;
+	border-color: #f1948a;
+	outline: 0;
+}
+
+.displayErrors {
+	box-shadow: 0 0 0 0.1rem rgba(225, 46, 27, 0.6);
+	color: #495057;
+	background-color: #fff;
+	border-color: #f1948a;
+	outline: 0;
+	border-radius: 0.25rem;
+}
+
+.row.form-group {
+	@include media-breakpoint-down(md) {
+		margin-bottom: 0 !important;
+	}
+
+	label {
+		@include media-breakpoint-down(md) {
+			margin-bottom: 0 !important;
+		}
+	}
+}
+
+.required {
+	&:after {
+		color: theme-color('danger');
+		content: ' *';
+		display: inline;
+	}
+}
+
+@media screen and (min-width: 1600px) {
+	.form-30-width {
+		max-width: 30%;
+	}
+	.form-40-width {
+		max-width: 40%;
+	}
+	.form-50-width {
+		max-width: 50%;
+	}
+	.form-60-width {
+		max-width: 60%;
+	}
+	.form-70-width {
+		max-width: 70%;
+	}
+	.form-80-width {
+		max-width: 80%;
+	}
+}

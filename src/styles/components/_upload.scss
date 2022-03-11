@@ -1,0 +1,11 @@
+.container-upload {
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	.content-upload {
+		width: 100%;
+		background: #fff;
+		border-radius: 4px;
+	}
+}

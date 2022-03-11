@@ -1,0 +1,62 @@
+.cr-header {
+	margin-bottom: $spacer * 0.5;
+	border-bottom: $border-width solid $border-color;
+	position: fixed;
+	z-index: 100;
+	width: 100%;
+
+	&.open {
+		width: calc(100vw - 210px);
+		background-color: white ;
+		color: #172439 ;
+	}
+
+
+	&__buttonHam{
+		color:#172439;
+		border: none;
+
+	}
+	
+	
+
+	@include media-breakpoint-down(ms) {
+		width: 100%;
+	}
+
+	@include media-breakpoint-down(md) {
+		&.open {
+			width: 100%;
+		}
+	}
+
+	
+	&__nav-right {
+		flex-direction: row;
+		justify-content: flex-end;
+		margin-left: auto;
+	}
+
+	&__date{
+		@include media-breakpoint-down(sm){
+			display: none;
+		}
+	}
+
+	.select {
+		width: 250px;
+		@include media-breakpoint-down(xs) {
+			width: 150px;
+		}
+	}
+
+	// &__notification-popover {
+	//   &.popover {
+	//     width: 320px;
+	//     max-width: 320px;
+	//     max-height: 100vh;
+	//     overflow-y: scroll;
+	//     cursor: pointer;
+	//   }
+	// }
+}

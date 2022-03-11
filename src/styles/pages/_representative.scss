@@ -1,0 +1,11 @@
+.representative-register {
+	.jEDPQU {
+		table-layout: fixed;
+		@include media-breakpoint-down(lg) {
+			table-layout: auto;
+		}
+	}
+	.rdt_Pagination {
+		justify-content: flex-start;
+	}
+}

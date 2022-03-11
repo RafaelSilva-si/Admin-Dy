@@ -1,0 +1,96 @@
+@import "../login-colors";
+
+#login-page  {
+    background: linear-gradient(90deg, rgba(27, 35, 48, 1), rgba(27, 35, 48, 1));	
+    height: 100vh;
+    overflow: hidden;
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        .screen {		
+            background: rgba(255, 255, 255, 0.1);		
+            position: relative;	
+            height: 360px;
+            width: 360px;	
+            box-shadow: 30px 50px 30px -20px rgba(0, 0, 0, 0.25);
+            .screen__content {
+                z-index: 1;
+                height: 100%;
+                form{
+                    
+                    padding: 15px;
+                    padding-top: 40px; 
+                    button{
+                        font-size: 14px;
+                        margin-top: 20px;
+                        padding: 16px 20px;
+                        border-radius: 26px;
+                        line-height: 27px;
+                        text-transform: uppercase;
+                        font-weight: 700;
+                        display: flex;
+                        align-items: center;
+                        width: 100%;
+                        filter: drop-shadow(10px 10px 30px rgba(255, 255, 255, 0.7));
+                        border-radius: 20px;
+                        cursor: pointer;
+                        transition: .2s;
+                        &:active, &:focus, &:hover{
+                            outline: none;
+	                        border-color: $btn-actions !important;
+                        }
+                        > div{
+                            width: 100%;
+                            text-align: left;
+                            > div{
+                                float: right;
+                            }
+                        }
+                    }
+                    .img-container{
+                        text-align: center;
+                        text-shadow: 0px 0px 30px #2758A8;
+                    }
+                    .input-group-prepend{
+                        align-items: center;
+                        position: relative;
+                        left:15px
+                    }
+                    .input-group{
+                        padding: 20px 0px;	
+                        position: relative;	
+                        background: rgba(201, 76, 76, 0.0);
+                        color: white;
+                        width: 95%;
+                        .invalid-feedback{
+                            position: absolute;
+                            bottom: 0;
+                        }
+                    }
+                    input{
+                        border: none;
+                        border-bottom: 2px solid white;
+                        background: rgba(201, 76, 76, 0.0);
+                        padding: 10px;
+                        padding-left: 24px;
+                        font-weight: 700;
+                        transition: .2s;
+                        &:active, &:focus, &:hover{
+                            background: rgba(201, 76, 76, 0.0);
+                            box-shadow: none;
+                        }
+                    }  
+                }
+            }
+        }
+        
+            
+        
+    }
+}
+
+
+
+

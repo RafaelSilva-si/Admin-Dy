@@ -1,0 +1,73 @@
+{
+	"colors": {
+		"primary": "#000100",
+		"secondary": "#C1C1BF",
+		"success": "#45b649",
+		"danger": "#f85032",
+		"warning": "#ffd700",
+		"info": "#00c9ff",
+		"tertiary": "#C1C1BF"
+	},
+	"login": [
+		{
+			"name": "background-color-one",
+			"value": "#FAFCFB"
+		},
+		{
+			"name": "background-color-two",
+			"value": "#C1C1BF"
+		},
+		{
+			"name": "background-color-container-one",
+			"value": "#C1C1BF"
+		},
+		{
+			"name": "background-color-container-two",
+			"value": "#000100"
+		},
+		{
+			"name": "box-shadow",
+			"value": "#070908"
+		},
+		{
+			"name": "btn-color",
+			"value": "#000201"
+		},
+		{
+			"name": "btn-border",
+			"value": "#000201"
+		},
+		{
+			"name": "btn-box-shadow",
+			"value": "#666C6C"
+		},
+		{
+			"name": "btn-actions",
+			"value": "#505050"
+		},
+		{
+			"name": "input-border",
+			"value": "#060606"
+		},
+		{
+			"name": "input-actions",
+			"value": "#060606"
+		},
+		{
+			"name": "shape-two",
+			"value": "#060606"
+		},
+		{
+			"name": "shape-three-one",
+			"value": "#626868"
+		},
+		{
+			"name": "shape-three-two",
+			"value": "#020605"
+		},
+		{
+			"name": "shape-four",
+			"value": "#D7D8D3"
+		}
+	]
+}
