@@ -23,5 +23,9 @@ password: teste123
 
 A ideia é um portal administrativo e comercial, onde será possivel cadastramento de vendas, compras, produtos, clientes e etc...Tentando alcançar uma interface elegante e intuitivo. 
 
-<b>Design</b>
+## Design
 
+<b>Desktop:</b>
+![image](https://user-images.githubusercontent.com/77937182/157927100-6f12099d-fd20-40e2-b98a-7baa12e70582.png)
+
+<b>Mobile:</b>
