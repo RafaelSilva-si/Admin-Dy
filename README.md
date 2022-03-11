@@ -14,3 +14,14 @@
 ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+https://admin-dy.herokuapp.com/
+
+user: teste123
+password: teste123
+
+## Info
+
+A ideia é um portal administrativo e comercial, onde será possivel cadastramento de vendas, compras, produtos, clientes e etc...Tentando alcançar uma interface elegante e intuitivo. 
+
+<b>Design</b>
+
