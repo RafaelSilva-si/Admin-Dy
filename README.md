@@ -24,7 +24,7 @@
 🔗 https://admin-dy.herokuapp.com/
 
 👤 user: teste123 </br>
-🔑 password: teste123
+🔑 password: testando
 
 </br>
 </br>
