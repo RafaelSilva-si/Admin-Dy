@@ -83,7 +83,7 @@
 		"lint": "eslint src/",
 		"lint:fix": "eslint src/ --fix",
 		"serve": "serve -s build",
-		"start": "node server.js",
+		"start": "env-cmd -f .env.production node server.js",
 		"start:development": "env-cmd -f .env.development react-scripts start",
 		"start:production": "env-cmd -f .env.production react-scripts start",
 		"start:staging": "env-cmd -f .env.staging react-scripts start",
