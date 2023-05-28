@@ -19,16 +19,6 @@
 </br>
 </br>
 
-> ⚠️ Servidor pode estar lento, recarregue a página e divirta-se.
-
-🔗 https://admin-dy.herokuapp.com/
-
-👤 user: teste123 </br>
-🔑 password: testando
-
-</br>
-</br>
-
 ## Info ℹ️
 
 A ideia é um portal administrativo e comercial, onde será possível cadastramento de vendas, compras, produtos, clientes e etc...Tentando alcançar uma interface elegante e intuitivo.
