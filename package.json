@@ -2,6 +2,9 @@
 	"name": "portal-admin-dy",
 	"version": "1.0.0",
 	"private": false,
+	"engines": {
+  "node": "16.x"
+},
 	"dependencies": {
 		"@ckeditor/ckeditor5-build-classic": "^20.0.0",
 		"@ckeditor/ckeditor5-react": "^2.1.0",
